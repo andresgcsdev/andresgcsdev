@@ -18,7 +18,7 @@ That mindset led me to explore languages that have nothing to do with each other
 
 **[Crawler-Sisu](https://github.com/andresgcsdev/Crawler-Sisu)** — Web crawler that extracts pass/waitlist data from Brazil's SISU university admission system.
 
-**[Research project @ CEFET](https://github.com/andresgcsdev)** — Extraction and cleaning of academic data from complex PDFs using Python and Pandas. Implemented multiprocessing to handle hundreds of files in parallel. Data delivered via API to an institutional database.
+**Research project @ CEFET** — Extraction and cleaning of academic data from complex PDFs using Python and Pandas. Implemented multiprocessing to handle hundreds of files in parallel. Data delivered via API to an institutional database. (Private repository)
 
 **[Masmorra](https://github.com/andresgcsdev/Masmorra)** — Fog-of-war dungeon game with procedural map generation. Built in 2022, kept here as an honest marker of where I started.
 
