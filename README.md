@@ -38,3 +38,7 @@ Finishing unit tests for ChessEngineCpp — edge cases, castling, the works. The
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andresgcsdev-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/andresgcsdev)
+
+---
+
+***Pragmatism over Purism.***
