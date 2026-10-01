@@ -6,15 +6,21 @@ CS student at UFLA • Technical degree in Systems Development from CEFET-MG •
 
 Developing software, for me, was never just about writing code that runs. It's about understanding the problem deeply enough to build something that actually makes sense.
 
-That mindset led me to explore languages that have nothing to do with each other: Python, C++, Java, TypeScript, Rust, Haskell. Not because a curriculum asked me to, but because each one forces you to think differently. Same problems, different constraints, different lessons every time.
+That mindset led me to work across languages that have little to do with each other: Python, C++, Java, TypeScript. Not because a curriculum asked me to, but because each one forces you to think differently. Same problems, different constraints, different lessons every time.
 
 ---
 
-## What I've been building
+## Currently
 
-**[Heartwood](https://github.com/andresgcsdev/Heartwood)** - My first attempt at building a programming language from scratch, no tutorials, no guided resources. The goal was to understand what actually happens between source code and execution, by implementing every piece myself: the lexer, the parser, the evaluator.
+**Undergraduate research (Iniciação Científica) @ UFLA** - Working with Prof. Luiz Merschmann on classification using Instance Hardness measures: instead of tuning one classifier over a fixed attribute set, routing each instance to a specialized model based on how hard it is (using Class Probability Difference). Python, [pyhard](https://github.com/ita-ml/pyhard).
+
+---
+
+## What I've built
 
 **[ChessEngineCpp](https://github.com/andresgcsdev/ChessEngineCpp)** - A C++ chess engine with full rule implementation, minimax search, piece-square table evaluation, alpha-beta pruning, move ordering via MVV-LVA and transposition tables. My fifth chess implementation across different languages. The first one I'm architecturally satisfied with.
+
+**[Heartwood](https://github.com/andresgcsdev/Heartwood)** *(paused)* - A programming language for teaching fundamentals, written from scratch in C++: statically typed, immutable by default, procedural, with no exposed pointers. Built the lexer, a recursive descent parser producing a `std::variant`-based AST, and an error module that collects diagnostics per compiler phase. Development stopped before semantic analysis and execution.
 
 **[PechinchaTech](https://github.com/andresgcsdev/PechinchaTech)** - Hardware price aggregator built for my CEFET final project. Python scraping, Spring Boot REST API, MySQL, Ionic frontend. Ran in production until the target sites restructured and broke the crawler.
 
@@ -26,14 +32,7 @@ That mindset led me to explore languages that have nothing to do with each other
 
 ## Stack
 
-`C++` `Python` `Java` `TypeScript` `MySQL` `Spring Boot`  
-Exploring: `Rust` `Haskell`
-
----
-
-## Currently
-
-Building a parser for my C++ interpreted language, Heartwood.
+`C++` `Python` `Java` `TypeScript` `MySQL` `Spring Boot`
 
 ---
 
