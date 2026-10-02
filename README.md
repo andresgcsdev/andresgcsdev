@@ -12,7 +12,7 @@ That mindset led me to work across languages that have little to do with each ot
 
 ## Currently
 
-**Undergraduate research @ UFLA** - Working with Prof. Luiz Merschmann on classification using Instance Hardness measures. Python, [pyhard](https://github.com/ita-ml/pyhard).
+**Undergraduate research @ UFLA** - Working with Prof. Luiz Merschmann on classification using Instance Hardness measures.
 
 ---
 
